@@ -1,0 +1,3 @@
+[submodule "my_accounts_pro"]
+	path = my_accounts_pro
+	url = https://github.com/hishamAlomisi/my_accounts_pro_api.git
